@@ -1,4 +1,4 @@
-```html
+html
 <h1 align="center">Hi 👋, I'm Shubham Kolekar</h1>
 <h3 align="center">AI & Machine Learning Engineer | Backend Developer | B.Tech AIML Student</h3>
 
@@ -167,4 +167,4 @@
 ---
 
 ### ⭐ If you find my projects useful, consider giving them a star!
-```
+
