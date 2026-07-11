@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/shubham-kolekar-247593288/" target="_blank">
+<a href="https://www.linkedin.com/in/shubhamkolekar2006/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45"/>
 </a>
 
