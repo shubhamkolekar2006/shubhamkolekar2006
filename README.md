@@ -31,7 +31,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45" height="45"/>
 </a>
 
-<a href="https://leetcode.com/" target="_blank">
+<a href="https://leetcode.com/shubham206" target="_blank">
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" width="45" height="45"/>
 </a>
 </p>
