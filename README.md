@@ -10,7 +10,7 @@
 
 <ul>
 <li>🎓 B.Tech Graduate in Artificial Intelligence & Machine Learning</li>
-<li>🌱 Currently learning Backend Engineering, System Design & LLM Applications</li>
+<li>🌱 Currently learning Backend Engineering, System Design, RAG & LLM Applications</li>
 <li>💬 Ask me about Python, FastAPI, Flask, Machine Learning, NLP & Agentic AI</li>
 <li>🧩 Solving DSA problems and improving problem-solving skills</li>
 <li>📫 Reach me at <strong>kolekarshubham2006@gmail.com</strong></li>
